@@ -1,4 +1,7 @@
-# mms-python
+# spiral column traversal
+# FrancisMiadi - 1210100
+# Miar Taweel - 1210447
+# Leena Abuhammad - 1211460
 
 Write a Micromouse maze-solving algorithm in Python.
 
