@@ -1,7 +1,10 @@
 # spiral column traversal
 Francis Miadi - 1210100
+
 Miar Taweel - 1210447
+
 Leena Abuhammad - 1211460
+
 
 Write a Micromouse maze-solving algorithm in Python.
 
